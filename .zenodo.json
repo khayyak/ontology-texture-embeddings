@@ -1,0 +1,25 @@
+{
+  "title": "ontology-texture-embeddings: code and ontologies for \"When Does an Attribute Ontology Help Frozen Foundation-Model Embeddings? Evidence from Texture Retrieval, Classification, and Clustering\"",
+  "upload_type": "software",
+  "description": "Code and hand-curated attribute ontologies (DTD: 47 attributes in 8 families; KTH-TIPS2-b: 11 materials in 4 families) for combining frozen DINOv2, CLIP and SigLIP embeddings with an ontology through enriched prompts, retrieval re-ranking and ontology-guided clustering.",
+  "creators": [
+    {
+      "name": "Khayya, El Kharrachi",
+      "affiliation": "Cadi Ayyad University",
+      "orcid": "0009-0004-7544-8165"
+    },
+    {
+      "name": "El Oirrak, Ahmed",
+      "affiliation": "Cadi Ayyad University"
+    }
+  ],
+  "keywords": [
+    "image retrieval",
+    "texture",
+    "ontology",
+    "embeddings",
+    "foundation models",
+    "clustering",
+    "DTD"
+  ]
+}

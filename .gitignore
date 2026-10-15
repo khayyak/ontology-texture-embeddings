@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+src/data/
+src/cache/
+src/results/
+results/
+*.npy
